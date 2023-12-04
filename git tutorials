@@ -32,6 +32,16 @@ Collaboration:
  2) becouse of the feature like branching and merging.
  3)  It allows for easy code sharing and collaboration, even in large development teams.
 
+MOST IMP COMMAND OF GIT 
+---------------------------
+1) git init :- Initialize a Repository:
+2) git clone repository_url :- clone the remote repository
+3) git status :- View the status of your working directory and staging area.
+4) git add filename :- Add the changes in the working directory to the staging area 
+5) git commit -m "Commit message" :- Commit staged changes with a descriptive message.
+
+
+
 
 
 
