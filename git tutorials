@@ -39,6 +39,16 @@ MOST IMP COMMAND OF GIT
 3) git status :- View the status of your working directory and staging area.
 4) git add filename :- Add the changes in the working directory to the staging area 
 5) git commit -m "Commit message" :- Commit staged changes with a descriptive message.
+6) git log :- View a log of all commits.
+7) git remote add origin <repository_url> :- command is used to set up a connection between your local Git repository and a remote repository. 
+8) git push -u origin master :- This command pushes the changes in your local "master" branch to the remote repository named "origin.
+10)git branch branch_name :- use to create branch 
+11)git checkout branch_name :-Switch to a different branch.
+12)git merge branch_name :- Merge changes from one branch into the current branch.
+13)git diff :- View changes not yet staged.
+14)git config --global user.name "Your Name" :- configure user information 
+   git config --global user.email "your.email@example.com" 
+15) 
 
 
 
