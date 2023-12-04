@@ -1,3 +1,18 @@
 what is git :-
 1) git is source code management system is use to manage the source code 
+2) source control refers to manage the history of changes in the codebase
+3) it can also track the changes in the codebase.
+4) scm can use to resolve the conflict which is created by developers
+---------------------------------------------------------------------------------------------------
+Why Source Control Is Important:- 
+1) When multiple developers are working within a shared codebase it is a common occurrence to make edits to a shared piece of code. 
+2) Separate developers may be working on a seemingly isolated feature, however this feature may use a shared code module. 
+3) Therefore developer 1 working on Feature 1 
+4) could make some edits and find out later that Developer 2 working on Feature 2 has conflicting edits
+5) Developers would edit text files directly and move them around to remote locations using FTP or other protocols. 
+6) Developer 1 would make edits and Developer 2 would unknowingly save over Developer 1’s work and wipe out the changes.
+----------------------------------------------------------------------------------------------------
+
+
+
 
