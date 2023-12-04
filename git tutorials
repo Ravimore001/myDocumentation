@@ -12,7 +12,18 @@ Why Source Control Is Important:-
 5) Developers would edit text files directly and move them around to remote locations using FTP or other protocols. 
 6) Developer 1 would make edits and Developer 2 would unknowingly save over Developer 1’s work and wipe out the changes.
 ----------------------------------------------------------------------------------------------------
+Advantages og SCM 
+ Distributed Version Control:
+ 1) Git is a distributed version control system, meaning each developer has a complete copy of the entire repository, 
+    including its history.
+ 2) This enables developers to work offline and independently, making collaboration more flexible.
 
+Branching and Merging:
+ 1) Git makes it easy to create branches for different features or bug fixes.
+ 2) Developers can work on their tasks in isolation, and later merge their changes back into the main codebase. 
 
+History Tracking:
+ 1) Git maintains a detailed history of changes made to the codebase. 
+ 2)
 
 
