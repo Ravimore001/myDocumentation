@@ -102,5 +102,29 @@ To start the Nexus service, use the following command. If you are having trouble
 -------------------------------------------------------
 sudo systemctl start nexus
 ------------------------------------------------------------------------------------------------------------------------------------------------
+NEXUS SERVER SETTING :- (in project-- pom.xml file)
+-----------------------------------------------------------------------------------
+<distributionManagement>
+	  <repository>
+		  <id>nexus</id>
+		  <name>samplerepo</name>
+		  <url>http://13.201.9.12:8081/repository/samplerepo/</url>
+	  </repository>
+
+	  <snapshotRepository>
+		<id>nexus</id>
+		<name>samplerepo</name>
+		<url>http://13.201.9.12:8081/repository/samplerepo/</url>  
+	  </snapshotRepository>
+  </distributionManagement>
+------------------------------------------------------------------------------------
+NEXUS SERVER SETTING :- (in project-- cd /apache-maven-9.8.8/conf/setting.xml file)
+------------------------------------------------------------------------------------
+    <server>
+            <id>nexus</id>
+            <username>admin</username>
+            <password>Rutu@2002</password>
+    </server>
+
 
        
