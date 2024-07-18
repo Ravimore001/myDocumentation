@@ -1,4 +1,7 @@
-Documentation
+                                      PROJECT NAME :-
+                       (Deploy LoginWebApp.war to Nexus repository)
+                 CONTINIOUS INTEGRATION PROJECT PIPELINE FROM JENKINS TO NEXUS
+
 --------------------------------------------------------------
 This project need a three server 
 1)	Jenkins server (t2.micro) 
