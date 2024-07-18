@@ -108,13 +108,13 @@ NEXUS SERVER SETTING :- (in project-- pom.xml file)
 	  <repository>
 		  <id>nexus</id>
 		  <name>samplerepo</name>
-		  <url>http://13.201.9.12:8081/repository/samplerepo/</url>
+		  <url>url of nexus server/repository/samplerepo/</url>
 	  </repository>
 
 	  <snapshotRepository>
 		<id>nexus</id>
 		<name>samplerepo</name>
-		<url>http://13.201.9.12:8081/repository/samplerepo/</url>  
+		 <url>url of nexus server/repository/samplerepo/</url>  
 	  </snapshotRepository>
   </distributionManagement>
 ------------------------------------------------------------------------------------
@@ -122,8 +122,8 @@ NEXUS SERVER SETTING :- (in project-- cd /apache-maven-9.8.8/conf/setting.xml fi
 ------------------------------------------------------------------------------------
     <server>
             <id>nexus</id>
-            <username>admin</username>
-            <password>Rutu@2002</password>
+            <username>------</username>
+            <password>------</password>
     </server>
 
 
