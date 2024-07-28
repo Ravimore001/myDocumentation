@@ -108,13 +108,13 @@ NEXUS SERVER SETTING :- (in project-- pom.xml file)
 	  <repository>
 		  <id>nexus</id>
 		  <name>samplerepo</name>
-		  <url>url of nexus server/repository/samplerepo/</url>
+		  <url>http://13.201.70.73:8081/repository/samplerepo/</url>
 	  </repository>
 
 	  <snapshotRepository>
 		<id>nexus</id>
 		<name>samplerepo</name>
-		 <url>url of nexus server/repository/samplerepo/</url>  
+		 <url>http://13.201.70.73:8081/repository/samplerepo/</url>  
 	  </snapshotRepository>
   </distributionManagement>
 ------------------------------------------------------------------------------------
